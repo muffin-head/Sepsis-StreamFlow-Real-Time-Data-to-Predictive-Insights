@@ -108,3 +108,20 @@ Start a Consumer	kafka-console-consumer.sh --topic test-topic --from-beginning -
 Stop Kafka	kafka-server-stop.sh
 Stop Zookeeper	/opt/zookeeper/bin/zkServer.sh stop
 
+
+To delete an already created topic in Kafka, follow these steps:________________________________________
+2. Delete the Topic
+Run the following command to delete a Kafka topic:
+bin/kafka-topics.sh --bootstrap-server localhost:9092 --delete --topic <topic_name>
+Replace <topic_name> with the name of the topic you want to delete.
+Example:
+bin/kafka-topics.sh --bootstrap-server localhost:9092 --delete --topic my-topic
+________________________________________
+3. Verify Deletion
+To confirm the topic is deleted, list all the topics:
+bin/kafka-topics.sh --bootstrap-server localhost:9092 –list
+
+
+
+
+
