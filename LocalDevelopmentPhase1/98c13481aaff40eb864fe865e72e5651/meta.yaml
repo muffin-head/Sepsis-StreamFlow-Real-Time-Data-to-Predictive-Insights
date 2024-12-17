@@ -1,0 +1,15 @@
+artifact_uri: file:///media/muffin/F/Sepsis/mlruns/192569941724639828/98c13481aaff40eb864fe865e72e5651/artifacts
+end_time: 1734448718951
+entry_point_name: ''
+experiment_id: '192569941724639828'
+lifecycle_stage: active
+run_id: 98c13481aaff40eb864fe865e72e5651
+run_name: RandomForest
+run_uuid: 98c13481aaff40eb864fe865e72e5651
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734448598493
+status: 3
+tags: []
+user_id: muffin

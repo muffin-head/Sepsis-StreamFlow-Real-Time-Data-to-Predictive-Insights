@@ -1,0 +1,15 @@
+artifact_uri: file:///media/muffin/F/Sepsis/mlruns/192569941724639828/d8f7faa6fb0346c28b842da7006461fe/artifacts
+end_time: 1734450554775
+entry_point_name: ''
+experiment_id: '192569941724639828'
+lifecycle_stage: active
+run_id: d8f7faa6fb0346c28b842da7006461fe
+run_name: valuable-ox-827
+run_uuid: d8f7faa6fb0346c28b842da7006461fe
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734450553128
+status: 3
+tags: []
+user_id: muffin
