@@ -1,5 +1,5 @@
 # IAC ADLS deployment with data
-To deploy Infrastructure as Code (IaC) for Azure Data Lake Storage using Terraform via GitHub, kindly refer to the repository [Azure-Terraform-Storage-IaC]([<insert_repo_link_here>](https://github.com/muffin-head/ADLS_terraform)).
+To deploy Infrastructure as Code (IaC) for Azure Data Lake Storage using Terraform via GitHub, kindly refer to the repository [Azure-Terraform-Storage-IaC](https://github.com/muffin-head/ADLS_terraform).
 
 # Wiki for Training a Machine Learning Model on Databricks Using MLflow
 
